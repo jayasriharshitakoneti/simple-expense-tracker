@@ -1,0 +1,31 @@
+.clickable-merchant {
+  cursor: pointer;
+  color: #007bff;
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+.clickable-merchant:hover {
+  color: #0056b3;
+}
+
+.delete-btn {
+  background: #ff4444;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background 0.2s;
+}
+
+.delete-btn:hover {
+  background: #cc0000;
+}
+
+.transactions-table th:last-child,
+.transactions-table td:last-child {
+  text-align: center;
+  width: 80px;
+}
