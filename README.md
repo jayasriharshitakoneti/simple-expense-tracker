@@ -61,7 +61,6 @@ A minimal, full-stack expense tracking application built with **FastAPI + MySQL 
 - Python 3.12+
 - Node.js 16+
 - MySQL server running locally
-- Database credentials: `root` / `Root@123`
 
 ### Backend Setup
 ```bash
